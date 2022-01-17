@@ -1,0 +1,11 @@
+{
+  "name": "ydkjs-yet-practice",
+  "version": "1.0.0",
+  "description": "My Solutions to the Practice Problems in the You Don't know JS Yet (YDKJS YET) Series",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lone Wolf",
+  "license": "MIT"
+}
